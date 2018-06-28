@@ -1,0 +1,30 @@
+Faith:
+
+* Hotspots
+* How many samples have no coding variants?  Histogram:  # of coding variants per sample.
+* Visualize: data 
+* Are any of the variants correlated?   Linages & How related are TB strains 
+* Position:  Lollipop Plot
+* Bring in drug information: 
+* # of samples for individual. 
+* Accumulation of mutations. 
+* Patient Location: nosocomial infections .. 
+* Mean and Standard Dev for Potential Mixed infections (fractional reads).  
+	Some species may drop out or amplify during culturing phase.  
+	
+
+Krithika: 
+
+* Remove columns that are all zeros
+* How to visualize a spase matrix.   
+* Plot:  X: axis is the position on the TB genome.   Y: is the frequency of the SNP
+
+Kodie:
+
+* read.csv(fn, colClasses=c("character", rep("numeric", n-1)) 
+
+
+
+
+Just Drug.. vs Outcome
+
